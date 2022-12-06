@@ -33,6 +33,8 @@ node index.js
 ```
 
 You can even add no. of images as suffix to the command by default it will generate 5 images
+
+
 ![1](https://github.com/prashant54singh/NFT-Generator/blob/master/layers/build/1.png?raw=true)
 
 
